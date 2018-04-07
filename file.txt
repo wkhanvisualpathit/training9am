@@ -1,7 +1,6 @@
 Technologies :
 html 
-css
-javascript
+:wq
 node
 express 
 mongo
